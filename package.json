@@ -8,8 +8,8 @@
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pako Chiu",
-  "license": "ISC",
+  "author": "PakoChiu <o2002_2002o@msn.com>",
+  "license": "MIT",
   "devDependencies": {
     "rollup": "^2.73.0",
     "rollup-plugin-terser": "^7.0.2"
