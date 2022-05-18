@@ -8,7 +8,7 @@
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pako Chiu",
   "license": "ISC",
   "devDependencies": {
     "rollup": "^2.73.0",

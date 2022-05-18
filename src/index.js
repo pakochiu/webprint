@@ -12,6 +12,7 @@ const benchmarker = (testFunction, times = 1000000) => {
       testFunction();
     }
   
+    //Test
     const endTime = new Date().getTime();
   
     return endTime - startTime;
