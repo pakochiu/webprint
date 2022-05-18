@@ -1,5 +1,5 @@
 {
-  "name": "@pakochiu/webprint",
+  "name": "webprint",
   "version": "1.0.0",
   "description": "web print service",
   "main": "dist/index.js",
